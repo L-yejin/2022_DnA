@@ -5,7 +5,7 @@
 - Session은 Basic Session, ML Session, Deep Session으로 나뉘어있으며, 각 session별 운영진이 맡은 파드에 대해 발표 및 실습파일, 과제를 공유합니다.
 - Basic Session: python 기초 및 데이터 시각화 & 분석 
 - ML Session: 머신러닝 이론 및 실습
-- Deep Session: 딥러닝 이론 및 실
+- Deep Session: 딥러닝 이론 및 실습
 
 학회 홈페이지| https://cms.kookmin.ac.kr/kmu-dna/index.do  
 학회 인스타그램| https://www.instagram.com/kmu_dna/  
